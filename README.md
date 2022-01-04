@@ -20,4 +20,4 @@ LARI ADA WIBU
 =============
 cd Spam
 
-python cepam.py
+python spams.py 
