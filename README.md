@@ -1,6 +1,7 @@
 #SPAM KODE OTEPE cocok buat [riper]
-TANKS FOR [1]ALLAH SWT
-          [2]MBOKEY
+TANKS FOR' 
+[1]ALLAH SWT
+[2]MBOKEY
 
 install bahan bahan cukk
 ========================
