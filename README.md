@@ -1,4 +1,4 @@
-#spam:v
+#SPAM KODE OTEPE cocok buat [riper]
 
 install bahan bahan cukk
 ========================
