@@ -1,6 +1,6 @@
 #SPAM KODE OTEPE cocok buat [riper]
 
-TANKS' TO
+THANKS  TO
 ==========
 
 [1] ALLAH SWT
