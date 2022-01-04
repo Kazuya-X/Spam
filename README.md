@@ -1,5 +1,7 @@
 #SPAM KODE OTEPE cocok buat [riper]
-TANKS FOR'
+
+TANKS FOR 
+==========
 
 [1] ALLAH SWT
 
