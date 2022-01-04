@@ -8,5 +8,8 @@ pkg install git
 pkg install requests 
 pkg install mechanize
 git clone https://github.com/Zrantuy/Spam
+
+LARI
+====
 cd Spam
 python cepam.py
