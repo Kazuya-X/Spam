@@ -1,8 +1,12 @@
-# Spam
+#spam:v
+
+install bahan bahan coeg
+========================
 pkg update && pkg upgrade
-pip install requests
 pkg install python
 pkg install git
-git clone https://github.com/Zrantuy/spam 
-cd spam python 
-cepam.py
+pkg install requests 
+pkg install mechanize
+git clone https://github.com/Zrantuy/Spam
+cd Spam
+python cepam.py
