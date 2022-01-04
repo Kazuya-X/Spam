@@ -1,6 +1,6 @@
 #spam:v
 
-install bahan bahan coeg
+install bahan bahan cukk
 ========================
 pkg update && pkg upgrade
 
@@ -9,6 +9,8 @@ pkg install python
 pkg install git
 
 pkg install requests 
+
+rm -rf spam
 
 pkg install mechanize
 
