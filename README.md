@@ -1,6 +1,6 @@
 #SPAM KODE OTEPE cocok buat [riper]
 
-TANKS' FOR 
+TANKS' TO
 ==========
 
 [1] ALLAH SWT
