@@ -3,11 +3,11 @@
 THANKS  TO
 ==========
 
-[1] ALLAH SWT
+[1] ALLAH SWT [ tuhan saya]
 
-[2] MBOKEY
+[2] MBOKEY [guru saya]
 
-[3] ZAFI
+[3] ZAFI [author asli]
 
 install bahan bahan cukk
 ========================
