@@ -1,13 +1,5 @@
 #SPAM KODE OTEPE cocok buat [riper]
 
-THANKS  TO
-==========
-
-[1] ALLAH SWT [ tuhan saya]
-
-[2] MBOKEY [guru saya]
-
-[3] ZAFI [author asli]
 
 install bahan bahan cukk
 ========================
@@ -23,9 +15,9 @@ rm -rf spam
 
 pkg install mechanize
 
-git clone https://github.com/Zrantuy/Spam
+git clone https://github.com/Mr-Sadx/Spam
 
-LARI ADA WIBU
+🏃LARI ADA WIBU [run]
 =============
 cd Spam
 
