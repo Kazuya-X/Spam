@@ -15,7 +15,7 @@ rm -rf spam
 
 pkg install mechanize
 
-git clone https://github.com/Mr-Sadx/Spam
+git clone https://github.com/4RD1-X-64N22/Spam
 
 🏃LARI ADA WIBU [run]
 =============
